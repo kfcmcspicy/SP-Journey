@@ -1,0 +1,894 @@
+Pclass	Sex	Age	PassengerId	Fare	Embarked	Survived	Name	Cabin	Ticket
+continuous	female male	continuous	continuous	continuous	C Q S	0 1	string	string	string
+						class	meta	meta	meta
+3.0	male	22.0	1.0	7.25	S	0	Braund, Mr. Owen Harris		A/5 21171
+1.0	female	38.0	2.0	71.2833	C	1	Cumings, Mrs. John Bradley (Florence Briggs Thayer)	C85	PC 17599
+3.0	female	26.0	3.0	7.925	S	1	Heikkinen, Miss. Laina		STON/O2. 3101282
+1.0	female	35.0	4.0	53.1	S	1	Futrelle, Mrs. Jacques Heath (Lily May Peel)	C123	113803
+3.0	male	35.0	5.0	8.05	S	0	Allen, Mr. William Henry		373450
+3.0	male		6.0	8.4583	Q	0	Moran, Mr. James		330877
+1.0	male	54.0	7.0	51.8625	S	0	McCarthy, Mr. Timothy J	E46	17463
+3.0	male	2.0	8.0	21.075	S	0	Palsson, Master. Gosta Leonard		349909
+3.0	female	27.0	9.0	11.1333	S	1	Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)		347742
+2.0	female	14.0	10.0	30.0708	C	1	Nasser, Mrs. Nicholas (Adele Achem)		237736
+3.0	female	4.0	11.0	16.7	S	1	Sandstrom, Miss. Marguerite Rut	G6	PP 9549
+1.0	female	58.0	12.0	26.55	S	1	Bonnell, Miss. Elizabeth	C103	113783
+3.0	male	20.0	13.0	8.05	S	0	Saundercock, Mr. William Henry		A/5. 2151
+3.0	male	39.0	14.0	31.275	S	0	Andersson, Mr. Anders Johan		347082
+3.0	female	14.0	15.0	7.8542	S	0	Vestrom, Miss. Hulda Amanda Adolfina		350406
+2.0	female	55.0	16.0	16.0	S	1	Hewlett, Mrs. (Mary D Kingcome) 		248706
+3.0	male	2.0	17.0	29.125	Q	0	Rice, Master. Eugene		382652
+2.0	male		18.0	13.0	S	1	Williams, Mr. Charles Eugene		244373
+3.0	female	31.0	19.0	18.0	S	0	Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)		345763
+3.0	female		20.0	7.225	C	1	Masselmani, Mrs. Fatima		2649
+2.0	male	35.0	21.0	26.0	S	0	Fynney, Mr. Joseph J		239865
+2.0	male	34.0	22.0	13.0	S	1	Beesley, Mr. Lawrence	D56	248698
+3.0	female	15.0	23.0	8.0292	Q	1	"McGowan, Miss. Anna ""Annie"""		330923
+1.0	male	28.0	24.0	35.5	S	1	Sloper, Mr. William Thompson	A6	113788
+3.0	female	8.0	25.0	21.075	S	0	Palsson, Miss. Torborg Danira		349909
+3.0	female	38.0	26.0	31.3875	S	1	Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)		347077
+3.0	male		27.0	7.225	C	0	Emir, Mr. Farred Chehab		2631
+1.0	male	19.0	28.0	263.0	S	0	Fortune, Mr. Charles Alexander	C23 C25 C27	19950
+3.0	female		29.0	7.8792	Q	1	"O'Dwyer, Miss. Ellen ""Nellie"""		330959
+3.0	male		30.0	7.8958	S	0	Todoroff, Mr. Lalio		349216
+1.0	male	40.0	31.0	27.7208	C	0	Uruchurtu, Don. Manuel E		PC 17601
+1.0	female		32.0	146.5208	C	1	Spencer, Mrs. William Augustus (Marie Eugenie)	B78	PC 17569
+3.0	female		33.0	7.75	Q	1	Glynn, Miss. Mary Agatha		335677
+2.0	male	66.0	34.0	10.5	S	0	Wheadon, Mr. Edward H		C.A. 24579
+1.0	male	28.0	35.0	82.1708	C	0	Meyer, Mr. Edgar Joseph		PC 17604
+1.0	male	42.0	36.0	52.0	S	0	Holverson, Mr. Alexander Oskar		113789
+3.0	male		37.0	7.2292	C	1	Mamee, Mr. Hanna		2677
+3.0	male	21.0	38.0	8.05	S	0	Cann, Mr. Ernest Charles		A./5. 2152
+3.0	female	18.0	39.0	18.0	S	0	Vander Planke, Miss. Augusta Maria		345764
+3.0	female	14.0	40.0	11.2417	C	1	Nicola-Yarred, Miss. Jamila		2651
+3.0	female	40.0	41.0	9.475	S	0	Ahlin, Mrs. Johan (Johanna Persdotter Larsson)		7546
+2.0	female	27.0	42.0	21.0	S	0	Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)		11668
+3.0	male		43.0	7.8958	C	0	Kraeff, Mr. Theodor		349253
+2.0	female	3.0	44.0	41.5792	C	1	Laroche, Miss. Simonne Marie Anne Andree		SC/Paris 2123
+3.0	female	19.0	45.0	7.8792	Q	1	Devaney, Miss. Margaret Delia		330958
+3.0	male		46.0	8.05	S	0	Rogers, Mr. William John		S.C./A.4. 23567
+3.0	male		47.0	15.5	Q	0	Lennon, Mr. Denis		370371
+3.0	female		48.0	7.75	Q	1	O'Driscoll, Miss. Bridget		14311
+3.0	male		49.0	21.6792	C	0	Samaan, Mr. Youssef		2662
+3.0	female	18.0	50.0	17.8	S	0	Arnold-Franchi, Mrs. Josef (Josefine Franchi)		349237
+3.0	male	7.0	51.0	39.6875	S	0	Panula, Master. Juha Niilo		3101295
+3.0	male	21.0	52.0	7.8	S	0	Nosworthy, Mr. Richard Cater		A/4. 39886
+1.0	female	49.0	53.0	76.7292	C	1	Harper, Mrs. Henry Sleeper (Myna Haxtun)	D33	PC 17572
+2.0	female	29.0	54.0	26.0	S	1	Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)		2926
+1.0	male	65.0	55.0	61.9792	C	0	Ostby, Mr. Engelhart Cornelius	B30	113509
+1.0	male		56.0	35.5	S	1	Woolner, Mr. Hugh	C52	19947
+2.0	female	21.0	57.0	10.5	S	1	Rugg, Miss. Emily		C.A. 31026
+3.0	male	28.5	58.0	7.2292	C	0	Novel, Mr. Mansouer		2697
+2.0	female	5.0	59.0	27.75	S	1	West, Miss. Constance Mirium		C.A. 34651
+3.0	male	11.0	60.0	46.9	S	0	Goodwin, Master. William Frederick		CA 2144
+3.0	male	22.0	61.0	7.2292	C	0	Sirayanian, Mr. Orsen		2669
+1.0	female	38.0	62.0	80.0		1	Icard, Miss. Amelie	B28	113572
+1.0	male	45.0	63.0	83.475	S	0	Harris, Mr. Henry Birkhardt	C83	36973
+3.0	male	4.0	64.0	27.9	S	0	Skoog, Master. Harald		347088
+1.0	male		65.0	27.7208	C	0	Stewart, Mr. Albert A		PC 17605
+3.0	male		66.0	15.2458	C	1	Moubarek, Master. Gerios		2661
+2.0	female	29.0	67.0	10.5	S	1	Nye, Mrs. (Elizabeth Ramell)	F33	C.A. 29395
+3.0	male	19.0	68.0	8.1583	S	0	Crease, Mr. Ernest James		S.P. 3464
+3.0	female	17.0	69.0	7.925	S	1	Andersson, Miss. Erna Alexandra		3101281
+3.0	male	26.0	70.0	8.6625	S	0	Kink, Mr. Vincenz		315151
+2.0	male	32.0	71.0	10.5	S	0	Jenkin, Mr. Stephen Curnow		C.A. 33111
+3.0	female	16.0	72.0	46.9	S	0	Goodwin, Miss. Lillian Amy		CA 2144
+2.0	male	21.0	73.0	73.5	S	0	Hood, Mr. Ambrose Jr		S.O.C. 14879
+3.0	male	26.0	74.0	14.4542	C	0	Chronopoulos, Mr. Apostolos		2680
+3.0	male	32.0	75.0	56.4958	S	1	Bing, Mr. Lee		1601
+3.0	male	25.0	76.0	7.65	S	0	Moen, Mr. Sigurd Hansen	F G73	348123
+3.0	male		77.0	7.8958	S	0	Staneff, Mr. Ivan		349208
+3.0	male		78.0	8.05	S	0	Moutal, Mr. Rahamin Haim		374746
+2.0	male	0.83	79.0	29.0	S	1	Caldwell, Master. Alden Gates		248738
+3.0	female	30.0	80.0	12.475	S	1	Dowdell, Miss. Elizabeth		364516
+3.0	male	22.0	81.0	9.0	S	0	Waelens, Mr. Achille		345767
+3.0	male	29.0	82.0	9.5	S	1	Sheerlinck, Mr. Jan Baptist		345779
+3.0	female		83.0	7.7875	Q	1	McDermott, Miss. Brigdet Delia		330932
+1.0	male	28.0	84.0	47.1	S	0	Carrau, Mr. Francisco M		113059
+2.0	female	17.0	85.0	10.5	S	1	Ilett, Miss. Bertha		SO/C 14885
+3.0	female	33.0	86.0	15.85	S	1	Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)		3101278
+3.0	male	16.0	87.0	34.375	S	0	Ford, Mr. William Neal		W./C. 6608
+3.0	male		88.0	8.05	S	0	Slocovski, Mr. Selman Francis		SOTON/OQ 392086
+1.0	female	23.0	89.0	263.0	S	1	Fortune, Miss. Mabel Helen	C23 C25 C27	19950
+3.0	male	24.0	90.0	8.05	S	0	Celotti, Mr. Francesco		343275
+3.0	male	29.0	91.0	8.05	S	0	Christmann, Mr. Emil		343276
+3.0	male	20.0	92.0	7.8542	S	0	Andreasson, Mr. Paul Edvin		347466
+1.0	male	46.0	93.0	61.175	S	0	Chaffee, Mr. Herbert Fuller	E31	W.E.P. 5734
+3.0	male	26.0	94.0	20.575	S	0	Dean, Mr. Bertram Frank		C.A. 2315
+3.0	male	59.0	95.0	7.25	S	0	Coxon, Mr. Daniel		364500
+3.0	male		96.0	8.05	S	0	Shorney, Mr. Charles Joseph		374910
+1.0	male	71.0	97.0	34.6542	C	0	Goldschmidt, Mr. George B	A5	PC 17754
+1.0	male	23.0	98.0	63.3583	C	1	Greenfield, Mr. William Bertram	D10 D12	PC 17759
+2.0	female	34.0	99.0	23.0	S	1	Doling, Mrs. John T (Ada Julia Bone)		231919
+2.0	male	34.0	100.0	26.0	S	0	Kantor, Mr. Sinai		244367
+3.0	female	28.0	101.0	7.8958	S	0	Petranec, Miss. Matilda		349245
+3.0	male		102.0	7.8958	S	0	"Petroff, Mr. Pastcho (""Pentcho"")"		349215
+1.0	male	21.0	103.0	77.2875	S	0	White, Mr. Richard Frasar	D26	35281
+3.0	male	33.0	104.0	8.6542	S	0	Johansson, Mr. Gustaf Joel		7540
+3.0	male	37.0	105.0	7.925	S	0	Gustafsson, Mr. Anders Vilhelm		3101276
+3.0	male	28.0	106.0	7.8958	S	0	Mionoff, Mr. Stoytcho		349207
+3.0	female	21.0	107.0	7.65	S	1	Salkjelsvik, Miss. Anna Kristine		343120
+3.0	male		108.0	7.775	S	1	Moss, Mr. Albert Johan		312991
+3.0	male	38.0	109.0	7.8958	S	0	Rekic, Mr. Tido		349249
+3.0	female		110.0	24.15	Q	1	Moran, Miss. Bertha		371110
+1.0	male	47.0	111.0	52.0	S	0	Porter, Mr. Walter Chamberlain	C110	110465
+3.0	female	14.5	112.0	14.4542	C	0	Zabour, Miss. Hileni		2665
+3.0	male	22.0	113.0	8.05	S	0	Barton, Mr. David John		324669
+3.0	female	20.0	114.0	9.825	S	0	Jussila, Miss. Katriina		4136
+3.0	female	17.0	115.0	14.4583	C	0	Attalah, Miss. Malake		2627
+3.0	male	21.0	116.0	7.925	S	0	Pekoniemi, Mr. Edvard		STON/O 2. 3101294
+3.0	male	70.5	117.0	7.75	Q	0	Connors, Mr. Patrick		370369
+2.0	male	29.0	118.0	21.0	S	0	Turpin, Mr. William John Robert		11668
+1.0	male	24.0	119.0	247.5208	C	0	Baxter, Mr. Quigg Edmond	B58 B60	PC 17558
+3.0	female	2.0	120.0	31.275	S	0	Andersson, Miss. Ellis Anna Maria		347082
+2.0	male	21.0	121.0	73.5	S	0	Hickman, Mr. Stanley George		S.O.C. 14879
+3.0	male		122.0	8.05	S	0	Moore, Mr. Leonard Charles		A4. 54510
+2.0	male	32.5	123.0	30.0708	C	0	Nasser, Mr. Nicholas		237736
+2.0	female	32.5	124.0	13.0	S	1	Webber, Miss. Susan	E101	27267
+1.0	male	54.0	125.0	77.2875	S	0	White, Mr. Percival Wayland	D26	35281
+3.0	male	12.0	126.0	11.2417	C	1	Nicola-Yarred, Master. Elias		2651
+3.0	male		127.0	7.75	Q	0	McMahon, Mr. Martin		370372
+3.0	male	24.0	128.0	7.1417	S	1	Madsen, Mr. Fridtjof Arne		C 17369
+3.0	female		129.0	22.3583	C	1	Peter, Miss. Anna	F E69	2668
+3.0	male	45.0	130.0	6.975	S	0	Ekstrom, Mr. Johan		347061
+3.0	male	33.0	131.0	7.8958	C	0	Drazenoic, Mr. Jozef		349241
+3.0	male	20.0	132.0	7.05	S	0	Coelho, Mr. Domingos Fernandeo		SOTON/O.Q. 3101307
+3.0	female	47.0	133.0	14.5	S	0	Robins, Mrs. Alexander A (Grace Charity Laury)		A/5. 3337
+2.0	female	29.0	134.0	26.0	S	1	Weisz, Mrs. Leopold (Mathilde Francoise Pede)		228414
+2.0	male	25.0	135.0	13.0	S	0	Sobey, Mr. Samuel James Hayden		C.A. 29178
+2.0	male	23.0	136.0	15.0458	C	0	Richard, Mr. Emile		SC/PARIS 2133
+1.0	female	19.0	137.0	26.2833	S	1	Newsom, Miss. Helen Monypeny	D47	11752
+1.0	male	37.0	138.0	53.1	S	0	Futrelle, Mr. Jacques Heath	C123	113803
+3.0	male	16.0	139.0	9.2167	S	0	Osen, Mr. Olaf Elon		7534
+1.0	male	24.0	140.0	79.2	C	0	Giglio, Mr. Victor	B86	PC 17593
+3.0	female		141.0	15.2458	C	0	Boulos, Mrs. Joseph (Sultana)		2678
+3.0	female	22.0	142.0	7.75	S	1	Nysten, Miss. Anna Sofia		347081
+3.0	female	24.0	143.0	15.85	S	1	Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)		STON/O2. 3101279
+3.0	male	19.0	144.0	6.75	Q	0	Burke, Mr. Jeremiah		365222
+2.0	male	18.0	145.0	11.5	S	0	Andrew, Mr. Edgardo Samuel		231945
+2.0	male	19.0	146.0	36.75	S	0	Nicholls, Mr. Joseph Charles		C.A. 33112
+3.0	male	27.0	147.0	7.7958	S	1	"Andersson, Mr. August Edvard (""Wennerstrom"")"		350043
+3.0	female	9.0	148.0	34.375	S	0	"Ford, Miss. Robina Maggie ""Ruby"""		W./C. 6608
+2.0	male	36.5	149.0	26.0	S	0	"Navratil, Mr. Michel (""Louis M Hoffman"")"	F2	230080
+2.0	male	42.0	150.0	13.0	S	0	Byles, Rev. Thomas Roussel Davids		244310
+2.0	male	51.0	151.0	12.525	S	0	Bateman, Rev. Robert James		S.O.P. 1166
+1.0	female	22.0	152.0	66.6	S	1	Pears, Mrs. Thomas (Edith Wearne)	C2	113776
+3.0	male	55.5	153.0	8.05	S	0	Meo, Mr. Alfonzo		A.5. 11206
+3.0	male	40.5	154.0	14.5	S	0	van Billiard, Mr. Austin Blyler		A/5. 851
+3.0	male		155.0	7.3125	S	0	Olsen, Mr. Ole Martin		Fa 265302
+1.0	male	51.0	156.0	61.3792	C	0	Williams, Mr. Charles Duane		PC 17597
+3.0	female	16.0	157.0	7.7333	Q	1	"Gilnagh, Miss. Katherine ""Katie"""		35851
+3.0	male	30.0	158.0	8.05	S	0	Corn, Mr. Harry		SOTON/OQ 392090
+3.0	male		159.0	8.6625	S	0	Smiljanic, Mr. Mile		315037
+3.0	male		160.0	69.55	S	0	Sage, Master. Thomas Henry		CA. 2343
+3.0	male	44.0	161.0	16.1	S	0	Cribb, Mr. John Hatfield		371362
+2.0	female	40.0	162.0	15.75	S	1	"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)"		C.A. 33595
+3.0	male	26.0	163.0	7.775	S	0	Bengtsson, Mr. John Viktor		347068
+3.0	male	17.0	164.0	8.6625	S	0	Calic, Mr. Jovo		315093
+3.0	male	1.0	165.0	39.6875	S	0	Panula, Master. Eino Viljami		3101295
+3.0	male	9.0	166.0	20.525	S	1	"Goldsmith, Master. Frank John William ""Frankie"""		363291
+1.0	female		167.0	55.0	S	1	Chibnall, Mrs. (Edith Martha Bowerman)	E33	113505
+3.0	female	45.0	168.0	27.9	S	0	Skoog, Mrs. William (Anna Bernhardina Karlsson)		347088
+1.0	male		169.0	25.925	S	0	Baumann, Mr. John D		PC 17318
+3.0	male	28.0	170.0	56.4958	S	0	Ling, Mr. Lee		1601
+1.0	male	61.0	171.0	33.5	S	0	Van der hoef, Mr. Wyckoff	B19	111240
+3.0	male	4.0	172.0	29.125	Q	0	Rice, Master. Arthur		382652
+3.0	female	1.0	173.0	11.1333	S	1	Johnson, Miss. Eleanor Ileen		347742
+3.0	male	21.0	174.0	7.925	S	0	Sivola, Mr. Antti Wilhelm		STON/O 2. 3101280
+1.0	male	56.0	175.0	30.6958	C	0	Smith, Mr. James Clinch	A7	17764
+3.0	male	18.0	176.0	7.8542	S	0	Klasen, Mr. Klas Albin		350404
+3.0	male		177.0	25.4667	S	0	Lefebre, Master. Henry Forbes		4133
+1.0	female	50.0	178.0	28.7125	C	0	Isham, Miss. Ann Elizabeth	C49	PC 17595
+2.0	male	30.0	179.0	13.0	S	0	Hale, Mr. Reginald		250653
+3.0	male	36.0	180.0	0.0	S	0	Leonard, Mr. Lionel		LINE
+3.0	female		181.0	69.55	S	0	Sage, Miss. Constance Gladys		CA. 2343
+2.0	male		182.0	15.05	C	0	Pernot, Mr. Rene		SC/PARIS 2131
+3.0	male	9.0	183.0	31.3875	S	0	Asplund, Master. Clarence Gustaf Hugo		347077
+2.0	male	1.0	184.0	39.0	S	1	Becker, Master. Richard F	F4	230136
+3.0	female	4.0	185.0	22.025	S	1	Kink-Heilmann, Miss. Luise Gretchen		315153
+1.0	male		186.0	50.0	S	0	Rood, Mr. Hugh Roscoe	A32	113767
+3.0	female		187.0	15.5	Q	1	"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)"		370365
+1.0	male	45.0	188.0	26.55	S	1	"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")"		111428
+3.0	male	40.0	189.0	15.5	Q	0	Bourke, Mr. John		364849
+3.0	male	36.0	190.0	7.8958	S	0	Turcin, Mr. Stjepan		349247
+2.0	female	32.0	191.0	13.0	S	1	Pinsky, Mrs. (Rosa)		234604
+2.0	male	19.0	192.0	13.0	S	0	Carbines, Mr. William		28424
+3.0	female	19.0	193.0	7.8542	S	1	Andersen-Jensen, Miss. Carla Christine Nielsine		350046
+2.0	male	3.0	194.0	26.0	S	1	Navratil, Master. Michel M	F2	230080
+1.0	female	44.0	195.0	27.7208	C	1	Brown, Mrs. James Joseph (Margaret Tobin)	B4	PC 17610
+1.0	female	58.0	196.0	146.5208	C	1	Lurette, Miss. Elise	B80	PC 17569
+3.0	male		197.0	7.75	Q	0	Mernagh, Mr. Robert		368703
+3.0	male	42.0	198.0	8.4042	S	0	Olsen, Mr. Karl Siegwart Andreas		4579
+3.0	female		199.0	7.75	Q	1	"Madigan, Miss. Margaret ""Maggie"""		370370
+2.0	female	24.0	200.0	13.0	S	0	"Yrois, Miss. Henriette (""Mrs Harbeck"")"		248747
+3.0	male	28.0	201.0	9.5	S	0	Vande Walle, Mr. Nestor Cyriel		345770
+3.0	male		202.0	69.55	S	0	Sage, Mr. Frederick		CA. 2343
+3.0	male	34.0	203.0	6.4958	S	0	Johanson, Mr. Jakob Alfred		3101264
+3.0	male	45.5	204.0	7.225	C	0	Youseff, Mr. Gerious		2628
+3.0	male	18.0	205.0	8.05	S	1	"Cohen, Mr. Gurshon ""Gus"""		A/5 3540
+3.0	female	2.0	206.0	10.4625	S	0	Strom, Miss. Telma Matilda	G6	347054
+3.0	male	32.0	207.0	15.85	S	0	Backstrom, Mr. Karl Alfred		3101278
+3.0	male	26.0	208.0	18.7875	C	1	Albimona, Mr. Nassef Cassem		2699
+3.0	female	16.0	209.0	7.75	Q	1	"Carr, Miss. Helen ""Ellen"""		367231
+1.0	male	40.0	210.0	31.0	C	1	Blank, Mr. Henry	A31	112277
+3.0	male	24.0	211.0	7.05	S	0	Ali, Mr. Ahmed		SOTON/O.Q. 3101311
+2.0	female	35.0	212.0	21.0	S	1	Cameron, Miss. Clear Annie		F.C.C. 13528
+3.0	male	22.0	213.0	7.25	S	0	Perkin, Mr. John Henry		A/5 21174
+2.0	male	30.0	214.0	13.0	S	0	Givard, Mr. Hans Kristensen		250646
+3.0	male		215.0	7.75	Q	0	Kiernan, Mr. Philip		367229
+1.0	female	31.0	216.0	113.275	C	1	Newell, Miss. Madeleine	D36	35273
+3.0	female	27.0	217.0	7.925	S	1	Honkanen, Miss. Eliina		STON/O2. 3101283
+2.0	male	42.0	218.0	27.0	S	0	Jacobsohn, Mr. Sidney Samuel		243847
+1.0	female	32.0	219.0	76.2917	C	1	Bazzani, Miss. Albina	D15	11813
+2.0	male	30.0	220.0	10.5	S	0	Harris, Mr. Walter		W/C 14208
+3.0	male	16.0	221.0	8.05	S	1	Sunderland, Mr. Victor Francis		SOTON/OQ 392089
+2.0	male	27.0	222.0	13.0	S	0	Bracken, Mr. James H		220367
+3.0	male	51.0	223.0	8.05	S	0	Green, Mr. George Henry		21440
+3.0	male		224.0	7.8958	S	0	Nenkoff, Mr. Christo		349234
+1.0	male	38.0	225.0	90.0	S	1	Hoyt, Mr. Frederick Maxfield	C93	19943
+3.0	male	22.0	226.0	9.35	S	0	Berglund, Mr. Karl Ivar Sven		PP 4348
+2.0	male	19.0	227.0	10.5	S	1	Mellors, Mr. William John		SW/PP 751
+3.0	male	20.5	228.0	7.25	S	0	"Lovell, Mr. John Hall (""Henry"")"		A/5 21173
+2.0	male	18.0	229.0	13.0	S	0	Fahlstrom, Mr. Arne Jonas		236171
+3.0	female		230.0	25.4667	S	0	Lefebre, Miss. Mathilde		4133
+1.0	female	35.0	231.0	83.475	S	1	Harris, Mrs. Henry Birkhardt (Irene Wallach)	C83	36973
+3.0	male	29.0	232.0	7.775	S	0	Larsson, Mr. Bengt Edvin		347067
+2.0	male	59.0	233.0	13.5	S	0	Sjostedt, Mr. Ernst Adolf		237442
+3.0	female	5.0	234.0	31.3875	S	1	Asplund, Miss. Lillian Gertrud		347077
+2.0	male	24.0	235.0	10.5	S	0	Leyson, Mr. Robert William Norman		C.A. 29566
+3.0	female		236.0	7.55	S	0	Harknett, Miss. Alice Phoebe		W./C. 6609
+2.0	male	44.0	237.0	26.0	S	0	Hold, Mr. Stephen		26707
+2.0	female	8.0	238.0	26.25	S	1	"Collyer, Miss. Marjorie ""Lottie"""		C.A. 31921
+2.0	male	19.0	239.0	10.5	S	0	Pengelly, Mr. Frederick William		28665
+2.0	male	33.0	240.0	12.275	S	0	Hunt, Mr. George Henry		SCO/W 1585
+3.0	female		241.0	14.4542	C	0	Zabour, Miss. Thamine		2665
+3.0	female		242.0	15.5	Q	1	"Murphy, Miss. Katherine ""Kate"""		367230
+2.0	male	29.0	243.0	10.5	S	0	Coleridge, Mr. Reginald Charles		W./C. 14263
+3.0	male	22.0	244.0	7.125	S	0	Maenpaa, Mr. Matti Alexanteri		STON/O 2. 3101275
+3.0	male	30.0	245.0	7.225	C	0	Attalah, Mr. Sleiman		2694
+1.0	male	44.0	246.0	90.0	Q	0	Minahan, Dr. William Edward	C78	19928
+3.0	female	25.0	247.0	7.775	S	0	Lindahl, Miss. Agda Thorilda Viktoria		347071
+2.0	female	24.0	248.0	14.5	S	1	Hamalainen, Mrs. William (Anna)		250649
+1.0	male	37.0	249.0	52.5542	S	1	Beckwith, Mr. Richard Leonard	D35	11751
+2.0	male	54.0	250.0	26.0	S	0	Carter, Rev. Ernest Courtenay		244252
+3.0	male		251.0	7.25	S	0	Reed, Mr. James George		362316
+3.0	female	29.0	252.0	10.4625	S	0	Strom, Mrs. Wilhelm (Elna Matilda Persson)	G6	347054
+1.0	male	62.0	253.0	26.55	S	0	Stead, Mr. William Thomas	C87	113514
+3.0	male	30.0	254.0	16.1	S	0	Lobb, Mr. William Arthur		A/5. 3336
+3.0	female	41.0	255.0	20.2125	S	0	Rosblom, Mrs. Viktor (Helena Wilhelmina)		370129
+3.0	female	29.0	256.0	15.2458	C	1	Touma, Mrs. Darwis (Hanne Youssef Razi)		2650
+1.0	female		257.0	79.2	C	1	Thorne, Mrs. Gertrude Maybelle		PC 17585
+1.0	female	30.0	258.0	86.5	S	1	Cherry, Miss. Gladys	B77	110152
+1.0	female	35.0	259.0	512.3292	C	1	Ward, Miss. Anna		PC 17755
+2.0	female	50.0	260.0	26.0	S	1	Parrish, Mrs. (Lutie Davis)		230433
+3.0	male		261.0	7.75	Q	0	Smith, Mr. Thomas		384461
+3.0	male	3.0	262.0	31.3875	S	1	Asplund, Master. Edvin Rojj Felix		347077
+1.0	male	52.0	263.0	79.65	S	0	Taussig, Mr. Emil	E67	110413
+1.0	male	40.0	264.0	0.0	S	0	Harrison, Mr. William	B94	112059
+3.0	female		265.0	7.75	Q	0	Henry, Miss. Delia		382649
+2.0	male	36.0	266.0	10.5	S	0	Reeves, Mr. David		C.A. 17248
+3.0	male	16.0	267.0	39.6875	S	0	Panula, Mr. Ernesti Arvid		3101295
+3.0	male	25.0	268.0	7.775	S	1	Persson, Mr. Ernst Ulrik		347083
+1.0	female	58.0	269.0	153.4625	S	1	Graham, Mrs. William Thompson (Edith Junkins)	C125	PC 17582
+1.0	female	35.0	270.0	135.6333	S	1	Bissette, Miss. Amelia	C99	PC 17760
+1.0	male		271.0	31.0	S	0	Cairns, Mr. Alexander		113798
+3.0	male	25.0	272.0	0.0	S	1	Tornquist, Mr. William Henry		LINE
+2.0	female	41.0	273.0	19.5	S	1	Mellinger, Mrs. (Elizabeth Anne Maidment)		250644
+1.0	male	37.0	274.0	29.7	C	0	Natsch, Mr. Charles H	C118	PC 17596
+3.0	female		275.0	7.75	Q	1	"Healy, Miss. Hanora ""Nora"""		370375
+1.0	female	63.0	276.0	77.9583	S	1	Andrews, Miss. Kornelia Theodosia	D7	13502
+3.0	female	45.0	277.0	7.75	S	0	Lindblom, Miss. Augusta Charlotta		347073
+2.0	male		278.0	0.0	S	0	"Parkes, Mr. Francis ""Frank"""		239853
+3.0	male	7.0	279.0	29.125	Q	0	Rice, Master. Eric		382652
+3.0	female	35.0	280.0	20.25	S	1	Abbott, Mrs. Stanton (Rosa Hunt)		C.A. 2673
+3.0	male	65.0	281.0	7.75	Q	0	Duane, Mr. Frank		336439
+3.0	male	28.0	282.0	7.8542	S	0	Olsson, Mr. Nils Johan Goransson		347464
+3.0	male	16.0	283.0	9.5	S	0	de Pelsmaeker, Mr. Alfons		345778
+3.0	male	19.0	284.0	8.05	S	1	Dorking, Mr. Edward Arthur		A/5. 10482
+1.0	male		285.0	26.0	S	0	Smith, Mr. Richard William	A19	113056
+3.0	male	33.0	286.0	8.6625	C	0	Stankovic, Mr. Ivan		349239
+3.0	male	30.0	287.0	9.5	S	1	de Mulder, Mr. Theodore		345774
+3.0	male	22.0	288.0	7.8958	S	0	Naidenoff, Mr. Penko		349206
+2.0	male	42.0	289.0	13.0	S	1	Hosono, Mr. Masabumi		237798
+3.0	female	22.0	290.0	7.75	Q	1	Connolly, Miss. Kate		370373
+1.0	female	26.0	291.0	78.85	S	1	"Barber, Miss. Ellen ""Nellie"""		19877
+1.0	female	19.0	292.0	91.0792	C	1	Bishop, Mrs. Dickinson H (Helen Walton)	B49	11967
+2.0	male	36.0	293.0	12.875	C	0	Levy, Mr. Rene Jacques	D	SC/Paris 2163
+3.0	female	24.0	294.0	8.85	S	0	Haas, Miss. Aloisia		349236
+3.0	male	24.0	295.0	7.8958	S	0	Mineff, Mr. Ivan		349233
+1.0	male		296.0	27.7208	C	0	Lewy, Mr. Ervin G		PC 17612
+3.0	male	23.5	297.0	7.2292	C	0	Hanna, Mr. Mansour		2693
+1.0	female	2.0	298.0	151.55	S	0	Allison, Miss. Helen Loraine	C22 C26	113781
+1.0	male		299.0	30.5	S	1	Saalfeld, Mr. Adolphe	C106	19988
+1.0	female	50.0	300.0	247.5208	C	1	Baxter, Mrs. James (Helene DeLaudeniere Chaput)	B58 B60	PC 17558
+3.0	female		301.0	7.75	Q	1	"Kelly, Miss. Anna Katherine ""Annie Kate"""		9234
+3.0	male		302.0	23.25	Q	1	McCoy, Mr. Bernard		367226
+3.0	male	19.0	303.0	0.0	S	0	Johnson, Mr. William Cahoone Jr		LINE
+2.0	female		304.0	12.35	Q	1	Keane, Miss. Nora A	E101	226593
+3.0	male		305.0	8.05	S	0	"Williams, Mr. Howard Hugh ""Harry"""		A/5 2466
+1.0	male	0.92	306.0	151.55	S	1	Allison, Master. Hudson Trevor	C22 C26	113781
+1.0	female		307.0	110.8833	C	1	Fleming, Miss. Margaret		17421
+1.0	female	17.0	308.0	108.9	C	1	Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)	C65	PC 17758
+2.0	male	30.0	309.0	24.0	C	0	Abelson, Mr. Samuel		P/PP 3381
+1.0	female	30.0	310.0	56.9292	C	1	Francatelli, Miss. Laura Mabel	E36	PC 17485
+1.0	female	24.0	311.0	83.1583	C	1	Hays, Miss. Margaret Bechstein	C54	11767
+1.0	female	18.0	312.0	262.375	C	1	Ryerson, Miss. Emily Borie	B57 B59 B63 B66	PC 17608
+2.0	female	26.0	313.0	26.0	S	0	Lahtinen, Mrs. William (Anna Sylfven)		250651
+3.0	male	28.0	314.0	7.8958	S	0	Hendekovic, Mr. Ignjac		349243
+2.0	male	43.0	315.0	26.25	S	0	Hart, Mr. Benjamin		F.C.C. 13529
+3.0	female	26.0	316.0	7.8542	S	1	Nilsson, Miss. Helmina Josefina		347470
+2.0	female	24.0	317.0	26.0	S	1	Kantor, Mrs. Sinai (Miriam Sternin)		244367
+2.0	male	54.0	318.0	14.0	S	0	Moraweck, Dr. Ernest		29011
+1.0	female	31.0	319.0	164.8667	S	1	Wick, Miss. Mary Natalie	C7	36928
+1.0	female	40.0	320.0	134.5	C	1	Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)	E34	16966
+3.0	male	22.0	321.0	7.25	S	0	Dennis, Mr. Samuel		A/5 21172
+3.0	male	27.0	322.0	7.8958	S	0	Danoff, Mr. Yoto		349219
+2.0	female	30.0	323.0	12.35	Q	1	Slayter, Miss. Hilda Mary		234818
+2.0	female	22.0	324.0	29.0	S	1	Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)		248738
+3.0	male		325.0	69.55	S	0	Sage, Mr. George John Jr		CA. 2343
+1.0	female	36.0	326.0	135.6333	C	1	Young, Miss. Marie Grice	C32	PC 17760
+3.0	male	61.0	327.0	6.2375	S	0	Nysveen, Mr. Johan Hansen		345364
+2.0	female	36.0	328.0	13.0	S	1	Ball, Mrs. (Ada E Hall)	D	28551
+3.0	female	31.0	329.0	20.525	S	1	Goldsmith, Mrs. Frank John (Emily Alice Brown)		363291
+1.0	female	16.0	330.0	57.9792	C	1	Hippach, Miss. Jean Gertrude	B18	111361
+3.0	female		331.0	23.25	Q	1	McCoy, Miss. Agnes		367226
+1.0	male	45.5	332.0	28.5	S	0	Partner, Mr. Austen	C124	113043
+1.0	male	38.0	333.0	153.4625	S	0	Graham, Mr. George Edward	C91	PC 17582
+3.0	male	16.0	334.0	18.0	S	0	Vander Planke, Mr. Leo Edmondus		345764
+1.0	female		335.0	133.65	S	1	Frauenthal, Mrs. Henry William (Clara Heinsheimer)		PC 17611
+3.0	male		336.0	7.8958	S	0	Denkoff, Mr. Mitto		349225
+1.0	male	29.0	337.0	66.6	S	0	Pears, Mr. Thomas Clinton	C2	113776
+1.0	female	41.0	338.0	134.5	C	1	Burns, Miss. Elizabeth Margaret	E40	16966
+3.0	male	45.0	339.0	8.05	S	1	Dahl, Mr. Karl Edwart		7598
+1.0	male	45.0	340.0	35.5	S	0	Blackwell, Mr. Stephen Weart	T	113784
+2.0	male	2.0	341.0	26.0	S	1	Navratil, Master. Edmond Roger	F2	230080
+1.0	female	24.0	342.0	263.0	S	1	Fortune, Miss. Alice Elizabeth	C23 C25 C27	19950
+2.0	male	28.0	343.0	13.0	S	0	Collander, Mr. Erik Gustaf		248740
+2.0	male	25.0	344.0	13.0	S	0	Sedgwick, Mr. Charles Frederick Waddington		244361
+2.0	male	36.0	345.0	13.0	S	0	Fox, Mr. Stanley Hubert		229236
+2.0	female	24.0	346.0	13.0	S	1	"Brown, Miss. Amelia ""Mildred"""	F33	248733
+2.0	female	40.0	347.0	13.0	S	1	Smith, Miss. Marion Elsie		31418
+3.0	female		348.0	16.1	S	1	Davison, Mrs. Thomas Henry (Mary E Finck)		386525
+3.0	male	3.0	349.0	15.9	S	1	"Coutts, Master. William Loch ""William"""		C.A. 37671
+3.0	male	42.0	350.0	8.6625	S	0	Dimic, Mr. Jovan		315088
+3.0	male	23.0	351.0	9.225	S	0	Odahl, Mr. Nils Martin		7267
+1.0	male		352.0	35.0	S	0	Williams-Lambert, Mr. Fletcher Fellows	C128	113510
+3.0	male	15.0	353.0	7.2292	C	0	Elias, Mr. Tannous		2695
+3.0	male	25.0	354.0	17.8	S	0	Arnold-Franchi, Mr. Josef		349237
+3.0	male		355.0	7.225	C	0	Yousif, Mr. Wazli		2647
+3.0	male	28.0	356.0	9.5	S	0	Vanden Steen, Mr. Leo Peter		345783
+1.0	female	22.0	357.0	55.0	S	1	Bowerman, Miss. Elsie Edith	E33	113505
+2.0	female	38.0	358.0	13.0	S	0	Funk, Miss. Annie Clemmer		237671
+3.0	female		359.0	7.8792	Q	1	McGovern, Miss. Mary		330931
+3.0	female		360.0	7.8792	Q	1	"Mockler, Miss. Helen Mary ""Ellie"""		330980
+3.0	male	40.0	361.0	27.9	S	0	Skoog, Mr. Wilhelm		347088
+2.0	male	29.0	362.0	27.7208	C	0	del Carlo, Mr. Sebastiano		SC/PARIS 2167
+3.0	female	45.0	363.0	14.4542	C	0	Barbara, Mrs. (Catherine David)		2691
+3.0	male	35.0	364.0	7.05	S	0	Asim, Mr. Adola		SOTON/O.Q. 3101310
+3.0	male		365.0	15.5	Q	0	O'Brien, Mr. Thomas		370365
+3.0	male	30.0	366.0	7.25	S	0	Adahl, Mr. Mauritz Nils Martin		C 7076
+1.0	female	60.0	367.0	75.25	C	1	Warren, Mrs. Frank Manley (Anna Sophia Atkinson)	D37	110813
+3.0	female		368.0	7.2292	C	1	Moussa, Mrs. (Mantoura Boulos)		2626
+3.0	female		369.0	7.75	Q	1	Jermyn, Miss. Annie		14313
+1.0	female	24.0	370.0	69.3	C	1	Aubart, Mme. Leontine Pauline	B35	PC 17477
+1.0	male	25.0	371.0	55.4417	C	1	Harder, Mr. George Achilles	E50	11765
+3.0	male	18.0	372.0	6.4958	S	0	Wiklund, Mr. Jakob Alfred		3101267
+3.0	male	19.0	373.0	8.05	S	0	Beavan, Mr. William Thomas		323951
+1.0	male	22.0	374.0	135.6333	C	0	Ringhini, Mr. Sante		PC 17760
+3.0	female	3.0	375.0	21.075	S	0	Palsson, Miss. Stina Viola		349909
+1.0	female		376.0	82.1708	C	1	Meyer, Mrs. Edgar Joseph (Leila Saks)		PC 17604
+3.0	female	22.0	377.0	7.25	S	1	Landergren, Miss. Aurora Adelia		C 7077
+1.0	male	27.0	378.0	211.5	C	0	Widener, Mr. Harry Elkins	C82	113503
+3.0	male	20.0	379.0	4.0125	C	0	Betros, Mr. Tannous		2648
+3.0	male	19.0	380.0	7.775	S	0	Gustafsson, Mr. Karl Gideon		347069
+1.0	female	42.0	381.0	227.525	C	1	Bidois, Miss. Rosalie		PC 17757
+3.0	female	1.0	382.0	15.7417	C	1	"Nakid, Miss. Maria (""Mary"")"		2653
+3.0	male	32.0	383.0	7.925	S	0	Tikkanen, Mr. Juho		STON/O 2. 3101293
+1.0	female	35.0	384.0	52.0	S	1	Holverson, Mrs. Alexander Oskar (Mary Aline Towner)		113789
+3.0	male		385.0	7.8958	S	0	Plotcharsky, Mr. Vasil		349227
+2.0	male	18.0	386.0	73.5	S	0	Davies, Mr. Charles Henry		S.O.C. 14879
+3.0	male	1.0	387.0	46.9	S	0	Goodwin, Master. Sidney Leonard		CA 2144
+2.0	female	36.0	388.0	13.0	S	1	Buss, Miss. Kate		27849
+3.0	male		389.0	7.7292	Q	0	Sadlier, Mr. Matthew		367655
+2.0	female	17.0	390.0	12.0	C	1	Lehmann, Miss. Bertha		SC 1748
+1.0	male	36.0	391.0	120.0	S	1	Carter, Mr. William Ernest	B96 B98	113760
+3.0	male	21.0	392.0	7.7958	S	1	Jansson, Mr. Carl Olof		350034
+3.0	male	28.0	393.0	7.925	S	0	Gustafsson, Mr. Johan Birger		3101277
+1.0	female	23.0	394.0	113.275	C	1	Newell, Miss. Marjorie	D36	35273
+3.0	female	24.0	395.0	16.7	S	1	Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)	G6	PP 9549
+3.0	male	22.0	396.0	7.7958	S	0	Johansson, Mr. Erik		350052
+3.0	female	31.0	397.0	7.8542	S	0	Olsson, Miss. Elina		350407
+2.0	male	46.0	398.0	26.0	S	0	McKane, Mr. Peter David		28403
+2.0	male	23.0	399.0	10.5	S	0	Pain, Dr. Alfred		244278
+2.0	female	28.0	400.0	12.65	S	1	Trout, Mrs. William H (Jessie L)		240929
+3.0	male	39.0	401.0	7.925	S	1	Niskanen, Mr. Juha		STON/O 2. 3101289
+3.0	male	26.0	402.0	8.05	S	0	Adams, Mr. John		341826
+3.0	female	21.0	403.0	9.825	S	0	Jussila, Miss. Mari Aina		4137
+3.0	male	28.0	404.0	15.85	S	0	Hakkarainen, Mr. Pekka Pietari		STON/O2. 3101279
+3.0	female	20.0	405.0	8.6625	S	0	Oreskovic, Miss. Marija		315096
+2.0	male	34.0	406.0	21.0	S	0	Gale, Mr. Shadrach		28664
+3.0	male	51.0	407.0	7.75	S	0	Widegren, Mr. Carl/Charles Peter		347064
+2.0	male	3.0	408.0	18.75	S	1	Richards, Master. William Rowe		29106
+3.0	male	21.0	409.0	7.775	S	0	Birkeland, Mr. Hans Martin Monsen		312992
+3.0	female		410.0	25.4667	S	0	Lefebre, Miss. Ida		4133
+3.0	male		411.0	7.8958	S	0	Sdycoff, Mr. Todor		349222
+3.0	male		412.0	6.8583	Q	0	Hart, Mr. Henry		394140
+1.0	female	33.0	413.0	90.0	Q	1	Minahan, Miss. Daisy E	C78	19928
+2.0	male		414.0	0.0	S	0	Cunningham, Mr. Alfred Fleming		239853
+3.0	male	44.0	415.0	7.925	S	1	Sundman, Mr. Johan Julian		STON/O 2. 3101269
+3.0	female		416.0	8.05	S	0	Meek, Mrs. Thomas (Annie Louise Rowley)		343095
+2.0	female	34.0	417.0	32.5	S	1	Drew, Mrs. James Vivian (Lulu Thorne Christian)		28220
+2.0	female	18.0	418.0	13.0	S	1	Silven, Miss. Lyyli Karoliina		250652
+2.0	male	30.0	419.0	13.0	S	0	Matthews, Mr. William John		28228
+3.0	female	10.0	420.0	24.15	S	0	Van Impe, Miss. Catharina		345773
+3.0	male		421.0	7.8958	C	0	Gheorgheff, Mr. Stanio		349254
+3.0	male	21.0	422.0	7.7333	Q	0	Charters, Mr. David		A/5. 13032
+3.0	male	29.0	423.0	7.875	S	0	Zimmerman, Mr. Leo		315082
+3.0	female	28.0	424.0	14.4	S	0	Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)		347080
+3.0	male	18.0	425.0	20.2125	S	0	Rosblom, Mr. Viktor Richard		370129
+3.0	male		426.0	7.25	S	0	Wiseman, Mr. Phillippe		A/4. 34244
+2.0	female	28.0	427.0	26.0	S	1	Clarke, Mrs. Charles V (Ada Maria Winfield)		2003
+2.0	female	19.0	428.0	26.0	S	1	"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")"		250655
+3.0	male		429.0	7.75	Q	0	Flynn, Mr. James		364851
+3.0	male	32.0	430.0	8.05	S	1	Pickard, Mr. Berk (Berk Trembisky)	E10	SOTON/O.Q. 392078
+1.0	male	28.0	431.0	26.55	S	1	Bjornstrom-Steffansson, Mr. Mauritz Hakan	C52	110564
+3.0	female		432.0	16.1	S	1	Thorneycroft, Mrs. Percival (Florence Kate White)		376564
+2.0	female	42.0	433.0	26.0	S	1	Louch, Mrs. Charles Alexander (Alice Adelaide Slow)		SC/AH 3085
+3.0	male	17.0	434.0	7.125	S	0	Kallio, Mr. Nikolai Erland		STON/O 2. 3101274
+1.0	male	50.0	435.0	55.9	S	0	Silvey, Mr. William Baird	E44	13507
+1.0	female	14.0	436.0	120.0	S	1	Carter, Miss. Lucile Polk	B96 B98	113760
+3.0	female	21.0	437.0	34.375	S	0	"Ford, Miss. Doolina Margaret ""Daisy"""		W./C. 6608
+2.0	female	24.0	438.0	18.75	S	1	Richards, Mrs. Sidney (Emily Hocking)		29106
+1.0	male	64.0	439.0	263.0	S	0	Fortune, Mr. Mark	C23 C25 C27	19950
+2.0	male	31.0	440.0	10.5	S	0	Kvillner, Mr. Johan Henrik Johannesson		C.A. 18723
+2.0	female	45.0	441.0	26.25	S	1	Hart, Mrs. Benjamin (Esther Ada Bloomfield)		F.C.C. 13529
+3.0	male	20.0	442.0	9.5	S	0	Hampe, Mr. Leon		345769
+3.0	male	25.0	443.0	7.775	S	0	Petterson, Mr. Johan Emil		347076
+2.0	female	28.0	444.0	13.0	S	1	Reynaldo, Ms. Encarnacion		230434
+3.0	male		445.0	8.1125	S	1	Johannesen-Bratthammer, Mr. Bernt		65306
+1.0	male	4.0	446.0	81.8583	S	1	Dodge, Master. Washington	A34	33638
+2.0	female	13.0	447.0	19.5	S	1	Mellinger, Miss. Madeleine Violet		250644
+1.0	male	34.0	448.0	26.55	S	1	Seward, Mr. Frederic Kimber		113794
+3.0	female	5.0	449.0	19.2583	C	1	Baclini, Miss. Marie Catherine		2666
+1.0	male	52.0	450.0	30.5	S	1	Peuchen, Major. Arthur Godfrey	C104	113786
+2.0	male	36.0	451.0	27.75	S	0	West, Mr. Edwy Arthur		C.A. 34651
+3.0	male		452.0	19.9667	S	0	Hagland, Mr. Ingvald Olai Olsen		65303
+1.0	male	30.0	453.0	27.75	C	0	Foreman, Mr. Benjamin Laventall	C111	113051
+1.0	male	49.0	454.0	89.1042	C	1	Goldenberg, Mr. Samuel L	C92	17453
+3.0	male		455.0	8.05	S	0	Peduzzi, Mr. Joseph		A/5 2817
+3.0	male	29.0	456.0	7.8958	C	1	Jalsevac, Mr. Ivan		349240
+1.0	male	65.0	457.0	26.55	S	0	Millet, Mr. Francis Davis	E38	13509
+1.0	female		458.0	51.8625	S	1	Kenyon, Mrs. Frederick R (Marion)	D21	17464
+2.0	female	50.0	459.0	10.5	S	1	Toomey, Miss. Ellen		F.C.C. 13531
+3.0	male		460.0	7.75	Q	0	O'Connor, Mr. Maurice		371060
+1.0	male	48.0	461.0	26.55	S	1	Anderson, Mr. Harry	E12	19952
+3.0	male	34.0	462.0	8.05	S	0	Morley, Mr. William		364506
+1.0	male	47.0	463.0	38.5	S	0	Gee, Mr. Arthur H	E63	111320
+2.0	male	48.0	464.0	13.0	S	0	Milling, Mr. Jacob Christian		234360
+3.0	male		465.0	8.05	S	0	Maisner, Mr. Simon		A/S 2816
+3.0	male	38.0	466.0	7.05	S	0	Goncalves, Mr. Manuel Estanslas		SOTON/O.Q. 3101306
+2.0	male		467.0	0.0	S	0	Campbell, Mr. William		239853
+1.0	male	56.0	468.0	26.55	S	0	Smart, Mr. John Montgomery		113792
+3.0	male		469.0	7.725	Q	0	Scanlan, Mr. James		36209
+3.0	female	0.75	470.0	19.2583	C	1	Baclini, Miss. Helene Barbara		2666
+3.0	male		471.0	7.25	S	0	Keefe, Mr. Arthur		323592
+3.0	male	38.0	472.0	8.6625	S	0	Cacic, Mr. Luka		315089
+2.0	female	33.0	473.0	27.75	S	1	West, Mrs. Edwy Arthur (Ada Mary Worth)		C.A. 34651
+2.0	female	23.0	474.0	13.7917	C	1	Jerwan, Mrs. Amin S (Marie Marthe Thuillard)	D	SC/AH Basle 541
+3.0	female	22.0	475.0	9.8375	S	0	Strandberg, Miss. Ida Sofia		7553
+1.0	male		476.0	52.0	S	0	Clifford, Mr. George Quincy	A14	110465
+2.0	male	34.0	477.0	21.0	S	0	Renouf, Mr. Peter Henry		31027
+3.0	male	29.0	478.0	7.0458	S	0	Braund, Mr. Lewis Richard		3460
+3.0	male	22.0	479.0	7.5208	S	0	Karlsson, Mr. Nils August		350060
+3.0	female	2.0	480.0	12.2875	S	1	Hirvonen, Miss. Hildur E		3101298
+3.0	male	9.0	481.0	46.9	S	0	Goodwin, Master. Harold Victor		CA 2144
+2.0	male		482.0	0.0	S	0	"Frost, Mr. Anthony Wood ""Archie"""		239854
+3.0	male	50.0	483.0	8.05	S	0	Rouse, Mr. Richard Henry		A/5 3594
+3.0	female	63.0	484.0	9.5875	S	1	Turkula, Mrs. (Hedwig)		4134
+1.0	male	25.0	485.0	91.0792	C	1	Bishop, Mr. Dickinson H	B49	11967
+3.0	female		486.0	25.4667	S	0	Lefebre, Miss. Jeannie		4133
+1.0	female	35.0	487.0	90.0	S	1	Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)	C93	19943
+1.0	male	58.0	488.0	29.7	C	0	Kent, Mr. Edward Austin	B37	11771
+3.0	male	30.0	489.0	8.05	S	0	Somerton, Mr. Francis William		A.5. 18509
+3.0	male	9.0	490.0	15.9	S	1	"Coutts, Master. Eden Leslie ""Neville"""		C.A. 37671
+3.0	male		491.0	19.9667	S	0	Hagland, Mr. Konrad Mathias Reiersen		65304
+3.0	male	21.0	492.0	7.25	S	0	Windelov, Mr. Einar		SOTON/OQ 3101317
+1.0	male	55.0	493.0	30.5	S	0	Molson, Mr. Harry Markland	C30	113787
+1.0	male	71.0	494.0	49.5042	C	0	Artagaveytia, Mr. Ramon		PC 17609
+3.0	male	21.0	495.0	8.05	S	0	Stanley, Mr. Edward Roland		A/4 45380
+3.0	male		496.0	14.4583	C	0	Yousseff, Mr. Gerious		2627
+1.0	female	54.0	497.0	78.2667	C	1	Eustis, Miss. Elizabeth Mussey	D20	36947
+3.0	male		498.0	15.1	S	0	Shellard, Mr. Frederick William		C.A. 6212
+1.0	female	25.0	499.0	151.55	S	0	Allison, Mrs. Hudson J C (Bessie Waldo Daniels)	C22 C26	113781
+3.0	male	24.0	500.0	7.7958	S	0	Svensson, Mr. Olof		350035
+3.0	male	17.0	501.0	8.6625	S	0	Calic, Mr. Petar		315086
+3.0	female	21.0	502.0	7.75	Q	0	Canavan, Miss. Mary		364846
+3.0	female		503.0	7.6292	Q	0	O'Sullivan, Miss. Bridget Mary		330909
+3.0	female	37.0	504.0	9.5875	S	0	Laitinen, Miss. Kristina Sofia		4135
+1.0	female	16.0	505.0	86.5	S	1	Maioni, Miss. Roberta	B79	110152
+1.0	male	18.0	506.0	108.9	C	0	Penasco y Castellana, Mr. Victor de Satode	C65	PC 17758
+2.0	female	33.0	507.0	26.0	S	1	Quick, Mrs. Frederick Charles (Jane Richards)		26360
+1.0	male		508.0	26.55	S	1	"Bradley, Mr. George (""George Arthur Brayton"")"		111427
+3.0	male	28.0	509.0	22.525	S	0	Olsen, Mr. Henry Margido		C 4001
+3.0	male	26.0	510.0	56.4958	S	1	Lang, Mr. Fang		1601
+3.0	male	29.0	511.0	7.75	Q	1	Daly, Mr. Eugene Patrick		382651
+3.0	male		512.0	8.05	S	0	Webber, Mr. James		SOTON/OQ 3101316
+1.0	male	36.0	513.0	26.2875	S	1	McGough, Mr. James Robert	E25	PC 17473
+1.0	female	54.0	514.0	59.4	C	1	Rothschild, Mrs. Martin (Elizabeth L. Barrett)		PC 17603
+3.0	male	24.0	515.0	7.4958	S	0	Coleff, Mr. Satio		349209
+1.0	male	47.0	516.0	34.0208	S	0	Walker, Mr. William Anderson	D46	36967
+2.0	female	34.0	517.0	10.5	S	1	Lemore, Mrs. (Amelia Milley)	F33	C.A. 34260
+3.0	male		518.0	24.15	Q	0	Ryan, Mr. Patrick		371110
+2.0	female	36.0	519.0	26.0	S	1	"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)"		226875
+3.0	male	32.0	520.0	7.8958	S	0	Pavlovic, Mr. Stefo		349242
+1.0	female	30.0	521.0	93.5	S	1	Perreault, Miss. Anne	B73	12749
+3.0	male	22.0	522.0	7.8958	S	0	Vovk, Mr. Janko		349252
+3.0	male		523.0	7.225	C	0	Lahoud, Mr. Sarkis		2624
+1.0	female	44.0	524.0	57.9792	C	1	Hippach, Mrs. Louis Albert (Ida Sophia Fischer)	B18	111361
+3.0	male		525.0	7.2292	C	0	Kassem, Mr. Fared		2700
+3.0	male	40.5	526.0	7.75	Q	0	Farrell, Mr. James		367232
+2.0	female	50.0	527.0	10.5	S	1	Ridsdale, Miss. Lucy		W./C. 14258
+1.0	male		528.0	221.7792	S	0	Farthing, Mr. John	C95	PC 17483
+3.0	male	39.0	529.0	7.925	S	0	Salonen, Mr. Johan Werner		3101296
+2.0	male	23.0	530.0	11.5	S	0	Hocking, Mr. Richard George		29104
+2.0	female	2.0	531.0	26.0	S	1	Quick, Miss. Phyllis May		26360
+3.0	male		532.0	7.2292	C	0	Toufik, Mr. Nakli		2641
+3.0	male	17.0	533.0	7.2292	C	0	Elias, Mr. Joseph Jr		2690
+3.0	female		534.0	22.3583	C	1	Peter, Mrs. Catherine (Catherine Rizk)		2668
+3.0	female	30.0	535.0	8.6625	S	0	Cacic, Miss. Marija		315084
+2.0	female	7.0	536.0	26.25	S	1	Hart, Miss. Eva Miriam		F.C.C. 13529
+1.0	male	45.0	537.0	26.55	S	0	Butt, Major. Archibald Willingham	B38	113050
+1.0	female	30.0	538.0	106.425	C	1	LeRoy, Miss. Bertha		PC 17761
+3.0	male		539.0	14.5	S	0	Risien, Mr. Samuel Beard		364498
+1.0	female	22.0	540.0	49.5	C	1	Frolicher, Miss. Hedwig Margaritha	B39	13568
+1.0	female	36.0	541.0	71.0	S	1	Crosby, Miss. Harriet R	B22	WE/P 5735
+3.0	female	9.0	542.0	31.275	S	0	Andersson, Miss. Ingeborg Constanzia		347082
+3.0	female	11.0	543.0	31.275	S	0	Andersson, Miss. Sigrid Elisabeth		347082
+2.0	male	32.0	544.0	26.0	S	1	Beane, Mr. Edward		2908
+1.0	male	50.0	545.0	106.425	C	0	Douglas, Mr. Walter Donald	C86	PC 17761
+1.0	male	64.0	546.0	26.0	S	0	Nicholson, Mr. Arthur Ernest		693
+2.0	female	19.0	547.0	26.0	S	1	Beane, Mrs. Edward (Ethel Clarke)		2908
+2.0	male		548.0	13.8625	C	1	Padro y Manent, Mr. Julian		SC/PARIS 2146
+3.0	male	33.0	549.0	20.525	S	0	Goldsmith, Mr. Frank John		363291
+2.0	male	8.0	550.0	36.75	S	1	Davies, Master. John Morgan Jr		C.A. 33112
+1.0	male	17.0	551.0	110.8833	C	1	Thayer, Mr. John Borland Jr	C70	17421
+2.0	male	27.0	552.0	26.0	S	0	Sharp, Mr. Percival James R		244358
+3.0	male		553.0	7.8292	Q	0	O'Brien, Mr. Timothy		330979
+3.0	male	22.0	554.0	7.225	C	1	"Leeni, Mr. Fahim (""Philip Zenni"")"		2620
+3.0	female	22.0	555.0	7.775	S	1	Ohman, Miss. Velin		347085
+1.0	male	62.0	556.0	26.55	S	0	Wright, Mr. George		113807
+1.0	female	48.0	557.0	39.6	C	1	"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")"	A16	11755
+1.0	male		558.0	227.525	C	0	Robbins, Mr. Victor		PC 17757
+1.0	female	39.0	559.0	79.65	S	1	Taussig, Mrs. Emil (Tillie Mandelbaum)	E67	110413
+3.0	female	36.0	560.0	17.4	S	1	de Messemaeker, Mrs. Guillaume Joseph (Emma)		345572
+3.0	male		561.0	7.75	Q	0	Morrow, Mr. Thomas Rowan		372622
+3.0	male	40.0	562.0	7.8958	S	0	Sivic, Mr. Husein		349251
+2.0	male	28.0	563.0	13.5	S	0	Norman, Mr. Robert Douglas		218629
+3.0	male		564.0	8.05	S	0	Simmons, Mr. John		SOTON/OQ 392082
+3.0	female		565.0	8.05	S	0	Meanwell, Miss. (Marion Ogden)		SOTON/O.Q. 392087
+3.0	male	24.0	566.0	24.15	S	0	Davies, Mr. Alfred J		A/4 48871
+3.0	male	19.0	567.0	7.8958	S	0	Stoytcheff, Mr. Ilia		349205
+3.0	female	29.0	568.0	21.075	S	0	Palsson, Mrs. Nils (Alma Cornelia Berglund)		349909
+3.0	male		569.0	7.2292	C	0	Doharr, Mr. Tannous		2686
+3.0	male	32.0	570.0	7.8542	S	1	Jonsson, Mr. Carl		350417
+2.0	male	62.0	571.0	10.5	S	1	Harris, Mr. George		S.W./PP 752
+1.0	female	53.0	572.0	51.4792	S	1	Appleton, Mrs. Edward Dale (Charlotte Lamson)	C101	11769
+1.0	male	36.0	573.0	26.3875	S	1	"Flynn, Mr. John Irwin (""Irving"")"	E25	PC 17474
+3.0	female		574.0	7.75	Q	1	Kelly, Miss. Mary		14312
+3.0	male	16.0	575.0	8.05	S	0	Rush, Mr. Alfred George John		A/4. 20589
+3.0	male	19.0	576.0	14.5	S	0	Patchett, Mr. George		358585
+2.0	female	34.0	577.0	13.0	S	1	Garside, Miss. Ethel		243880
+1.0	female	39.0	578.0	55.9	S	1	Silvey, Mrs. William Baird (Alice Munger)	E44	13507
+3.0	female		579.0	14.4583	C	0	Caram, Mrs. Joseph (Maria Elias)		2689
+3.0	male	32.0	580.0	7.925	S	1	Jussila, Mr. Eiriik		STON/O 2. 3101286
+2.0	female	25.0	581.0	30.0	S	1	Christy, Miss. Julie Rachel		237789
+1.0	female	39.0	582.0	110.8833	C	1	Thayer, Mrs. John Borland (Marian Longstreth Morris)	C68	17421
+2.0	male	54.0	583.0	26.0	S	0	Downton, Mr. William James		28403
+1.0	male	36.0	584.0	40.125	C	0	Ross, Mr. John Hugo	A10	13049
+3.0	male		585.0	8.7125	C	0	Paulner, Mr. Uscher		3411
+1.0	female	18.0	586.0	79.65	S	1	Taussig, Miss. Ruth	E68	110413
+2.0	male	47.0	587.0	15.0	S	0	Jarvis, Mr. John Denzil		237565
+1.0	male	60.0	588.0	79.2	C	1	Frolicher-Stehli, Mr. Maxmillian	B41	13567
+3.0	male	22.0	589.0	8.05	S	0	Gilinski, Mr. Eliezer		14973
+3.0	male		590.0	8.05	S	0	Murdlin, Mr. Joseph		A./5. 3235
+3.0	male	35.0	591.0	7.125	S	0	Rintamaki, Mr. Matti		STON/O 2. 3101273
+1.0	female	52.0	592.0	78.2667	C	1	Stephenson, Mrs. Walter Bertram (Martha Eustis)	D20	36947
+3.0	male	47.0	593.0	7.25	S	0	Elsbury, Mr. William James		A/5 3902
+3.0	female		594.0	7.75	Q	0	Bourke, Miss. Mary		364848
+2.0	male	37.0	595.0	26.0	S	0	Chapman, Mr. John Henry		SC/AH 29037
+3.0	male	36.0	596.0	24.15	S	0	Van Impe, Mr. Jean Baptiste		345773
+2.0	female		597.0	33.0	S	1	Leitch, Miss. Jessie Wills		248727
+3.0	male	49.0	598.0	0.0	S	0	Johnson, Mr. Alfred		LINE
+3.0	male		599.0	7.225	C	0	Boulos, Mr. Hanna		2664
+1.0	male	49.0	600.0	56.9292	C	1	"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")"	A20	PC 17485
+2.0	female	24.0	601.0	27.0	S	1	Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)		243847
+3.0	male		602.0	7.8958	S	0	Slabenoff, Mr. Petco		349214
+1.0	male		603.0	42.4	S	0	Harrington, Mr. Charles H		113796
+3.0	male	44.0	604.0	8.05	S	0	Torber, Mr. Ernst William		364511
+1.0	male	35.0	605.0	26.55	C	1	"Homer, Mr. Harry (""Mr E Haven"")"		111426
+3.0	male	36.0	606.0	15.55	S	0	Lindell, Mr. Edvard Bengtsson		349910
+3.0	male	30.0	607.0	7.8958	S	0	Karaic, Mr. Milan		349246
+1.0	male	27.0	608.0	30.5	S	1	Daniel, Mr. Robert Williams		113804
+2.0	female	22.0	609.0	41.5792	C	1	Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)		SC/Paris 2123
+1.0	female	40.0	610.0	153.4625	S	1	Shutes, Miss. Elizabeth W	C125	PC 17582
+3.0	female	39.0	611.0	31.275	S	0	Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)		347082
+3.0	male		612.0	7.05	S	0	Jardin, Mr. Jose Neto		SOTON/O.Q. 3101305
+3.0	female		613.0	15.5	Q	1	Murphy, Miss. Margaret Jane		367230
+3.0	male		614.0	7.75	Q	0	Horgan, Mr. John		370377
+3.0	male	35.0	615.0	8.05	S	0	Brocklebank, Mr. William Alfred		364512
+2.0	female	24.0	616.0	65.0	S	1	Herman, Miss. Alice		220845
+3.0	male	34.0	617.0	14.4	S	0	Danbom, Mr. Ernst Gilbert		347080
+3.0	female	26.0	618.0	16.1	S	0	Lobb, Mrs. William Arthur (Cordelia K Stanlick)		A/5. 3336
+2.0	female	4.0	619.0	39.0	S	1	Becker, Miss. Marion Louise	F4	230136
+2.0	male	26.0	620.0	10.5	S	0	Gavey, Mr. Lawrence		31028
+3.0	male	27.0	621.0	14.4542	C	0	Yasbeck, Mr. Antoni		2659
+1.0	male	42.0	622.0	52.5542	S	1	Kimball, Mr. Edwin Nelson Jr	D19	11753
+3.0	male	20.0	623.0	15.7417	C	1	Nakid, Mr. Sahid		2653
+3.0	male	21.0	624.0	7.8542	S	0	Hansen, Mr. Henry Damsgaard		350029
+3.0	male	21.0	625.0	16.1	S	0	"Bowen, Mr. David John ""Dai"""		54636
+1.0	male	61.0	626.0	32.3208	S	0	Sutton, Mr. Frederick	D50	36963
+2.0	male	57.0	627.0	12.35	Q	0	Kirkland, Rev. Charles Leonard		219533
+1.0	female	21.0	628.0	77.9583	S	1	Longley, Miss. Gretchen Fiske	D9	13502
+3.0	male	26.0	629.0	7.8958	S	0	Bostandyeff, Mr. Guentcho		349224
+3.0	male		630.0	7.7333	Q	0	O'Connell, Mr. Patrick D		334912
+1.0	male	80.0	631.0	30.0	S	1	Barkworth, Mr. Algernon Henry Wilson	A23	27042
+3.0	male	51.0	632.0	7.0542	S	0	Lundahl, Mr. Johan Svensson		347743
+1.0	male	32.0	633.0	30.5	C	1	Stahelin-Maeglin, Dr. Max	B50	13214
+1.0	male		634.0	0.0	S	0	Parr, Mr. William Henry Marsh		112052
+3.0	female	9.0	635.0	27.9	S	0	Skoog, Miss. Mabel		347088
+2.0	female	28.0	636.0	13.0	S	1	Davis, Miss. Mary		237668
+3.0	male	32.0	637.0	7.925	S	0	Leinonen, Mr. Antti Gustaf		STON/O 2. 3101292
+2.0	male	31.0	638.0	26.25	S	0	Collyer, Mr. Harvey		C.A. 31921
+3.0	female	41.0	639.0	39.6875	S	0	Panula, Mrs. Juha (Maria Emilia Ojala)		3101295
+3.0	male		640.0	16.1	S	0	Thorneycroft, Mr. Percival		376564
+3.0	male	20.0	641.0	7.8542	S	0	Jensen, Mr. Hans Peder		350050
+1.0	female	24.0	642.0	69.3	C	1	Sagesser, Mlle. Emma	B35	PC 17477
+3.0	female	2.0	643.0	27.9	S	0	Skoog, Miss. Margit Elizabeth		347088
+3.0	male		644.0	56.4958	S	1	Foo, Mr. Choong		1601
+3.0	female	0.75	645.0	19.2583	C	1	Baclini, Miss. Eugenie		2666
+1.0	male	48.0	646.0	76.7292	C	1	Harper, Mr. Henry Sleeper	D33	PC 17572
+3.0	male	19.0	647.0	7.8958	S	0	Cor, Mr. Liudevit		349231
+1.0	male	56.0	648.0	35.5	C	1	Simonius-Blumer, Col. Oberst Alfons	A26	13213
+3.0	male		649.0	7.55	S	0	Willey, Mr. Edward		S.O./P.P. 751
+3.0	female	23.0	650.0	7.55	S	1	Stanley, Miss. Amy Zillah Elsie		CA. 2314
+3.0	male		651.0	7.8958	S	0	Mitkoff, Mr. Mito		349221
+2.0	female	18.0	652.0	23.0	S	1	Doling, Miss. Elsie		231919
+3.0	male	21.0	653.0	8.4333	S	0	Kalvik, Mr. Johannes Halvorsen		8475
+3.0	female		654.0	7.8292	Q	1	"O'Leary, Miss. Hanora ""Norah"""		330919
+3.0	female	18.0	655.0	6.75	Q	0	"Hegarty, Miss. Hanora ""Nora"""		365226
+2.0	male	24.0	656.0	73.5	S	0	Hickman, Mr. Leonard Mark		S.O.C. 14879
+3.0	male		657.0	7.8958	S	0	Radeff, Mr. Alexander		349223
+3.0	female	32.0	658.0	15.5	Q	0	Bourke, Mrs. John (Catherine)		364849
+2.0	male	23.0	659.0	13.0	S	0	Eitemiller, Mr. George Floyd		29751
+1.0	male	58.0	660.0	113.275	C	0	Newell, Mr. Arthur Webster	D48	35273
+1.0	male	50.0	661.0	133.65	S	1	Frauenthal, Dr. Henry William		PC 17611
+3.0	male	40.0	662.0	7.225	C	0	Badt, Mr. Mohamed		2623
+1.0	male	47.0	663.0	25.5875	S	0	Colley, Mr. Edward Pomeroy	E58	5727
+3.0	male	36.0	664.0	7.4958	S	0	Coleff, Mr. Peju		349210
+3.0	male	20.0	665.0	7.925	S	1	Lindqvist, Mr. Eino William		STON/O 2. 3101285
+2.0	male	32.0	666.0	73.5	S	0	Hickman, Mr. Lewis		S.O.C. 14879
+2.0	male	25.0	667.0	13.0	S	0	Butler, Mr. Reginald Fenton		234686
+3.0	male		668.0	7.775	S	0	Rommetvedt, Mr. Knud Paust		312993
+3.0	male	43.0	669.0	8.05	S	0	Cook, Mr. Jacob		A/5 3536
+1.0	female		670.0	52.0	S	1	Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)	C126	19996
+2.0	female	40.0	671.0	39.0	S	1	Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)		29750
+1.0	male	31.0	672.0	52.0	S	0	Davidson, Mr. Thornton	B71	F.C. 12750
+2.0	male	70.0	673.0	10.5	S	0	Mitchell, Mr. Henry Michael		C.A. 24580
+2.0	male	31.0	674.0	13.0	S	1	Wilhelms, Mr. Charles		244270
+2.0	male		675.0	0.0	S	0	Watson, Mr. Ennis Hastings		239856
+3.0	male	18.0	676.0	7.775	S	0	Edvardsson, Mr. Gustaf Hjalmar		349912
+3.0	male	24.5	677.0	8.05	S	0	Sawyer, Mr. Frederick Charles		342826
+3.0	female	18.0	678.0	9.8417	S	1	Turja, Miss. Anna Sofia		4138
+3.0	female	43.0	679.0	46.9	S	0	Goodwin, Mrs. Frederick (Augusta Tyler)		CA 2144
+1.0	male	36.0	680.0	512.3292	C	1	Cardeza, Mr. Thomas Drake Martinez	B51 B53 B55	PC 17755
+3.0	female		681.0	8.1375	Q	0	Peters, Miss. Katie		330935
+1.0	male	27.0	682.0	76.7292	C	1	Hassab, Mr. Hammad	D49	PC 17572
+3.0	male	20.0	683.0	9.225	S	0	Olsvigen, Mr. Thor Anderson		6563
+3.0	male	14.0	684.0	46.9	S	0	Goodwin, Mr. Charles Edward		CA 2144
+2.0	male	60.0	685.0	39.0	S	0	Brown, Mr. Thomas William Solomon		29750
+2.0	male	25.0	686.0	41.5792	C	0	Laroche, Mr. Joseph Philippe Lemercier		SC/Paris 2123
+3.0	male	14.0	687.0	39.6875	S	0	Panula, Mr. Jaako Arnold		3101295
+3.0	male	19.0	688.0	10.1708	S	0	Dakic, Mr. Branko		349228
+3.0	male	18.0	689.0	7.7958	S	0	Fischer, Mr. Eberhard Thelander		350036
+1.0	female	15.0	690.0	211.3375	S	1	Madill, Miss. Georgette Alexandra	B5	24160
+1.0	male	31.0	691.0	57.0	S	1	Dick, Mr. Albert Adrian	B20	17474
+3.0	female	4.0	692.0	13.4167	C	1	Karun, Miss. Manca		349256
+3.0	male		693.0	56.4958	S	1	Lam, Mr. Ali		1601
+3.0	male	25.0	694.0	7.225	C	0	Saad, Mr. Khalil		2672
+1.0	male	60.0	695.0	26.55	S	0	Weir, Col. John		113800
+2.0	male	52.0	696.0	13.5	S	0	Chapman, Mr. Charles Henry		248731
+3.0	male	44.0	697.0	8.05	S	0	Kelly, Mr. James		363592
+3.0	female		698.0	7.7333	Q	1	"Mullens, Miss. Katherine ""Katie"""		35852
+1.0	male	49.0	699.0	110.8833	C	0	Thayer, Mr. John Borland	C68	17421
+3.0	male	42.0	700.0	7.65	S	0	Humblen, Mr. Adolf Mathias Nicolai Olsen	F G63	348121
+1.0	female	18.0	701.0	227.525	C	1	Astor, Mrs. John Jacob (Madeleine Talmadge Force)	C62 C64	PC 17757
+1.0	male	35.0	702.0	26.2875	S	1	Silverthorne, Mr. Spencer Victor	E24	PC 17475
+3.0	female	18.0	703.0	14.4542	C	0	Barbara, Miss. Saiide		2691
+3.0	male	25.0	704.0	7.7417	Q	0	Gallagher, Mr. Martin		36864
+3.0	male	26.0	705.0	7.8542	S	0	Hansen, Mr. Henrik Juul		350025
+2.0	male	39.0	706.0	26.0	S	0	"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")"		250655
+2.0	female	45.0	707.0	13.5	S	1	"Kelly, Mrs. Florence ""Fannie"""		223596
+1.0	male	42.0	708.0	26.2875	S	1	Calderhead, Mr. Edward Pennington	E24	PC 17476
+1.0	female	22.0	709.0	151.55	S	1	Cleaver, Miss. Alice		113781
+3.0	male		710.0	15.2458	C	1	"Moubarek, Master. Halim Gonios (""William George"")"		2661
+1.0	female	24.0	711.0	49.5042	C	1	"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")"	C90	PC 17482
+1.0	male		712.0	26.55	S	0	Klaber, Mr. Herman	C124	113028
+1.0	male	48.0	713.0	52.0	S	1	Taylor, Mr. Elmer Zebley	C126	19996
+3.0	male	29.0	714.0	9.4833	S	0	Larsson, Mr. August Viktor		7545
+2.0	male	52.0	715.0	13.0	S	0	Greenberg, Mr. Samuel		250647
+3.0	male	19.0	716.0	7.65	S	0	Soholt, Mr. Peter Andreas Lauritz Andersen	F G73	348124
+1.0	female	38.0	717.0	227.525	C	1	Endres, Miss. Caroline Louise	C45	PC 17757
+2.0	female	27.0	718.0	10.5	S	1	"Troutt, Miss. Edwina Celia ""Winnie"""	E101	34218
+3.0	male		719.0	15.5	Q	0	McEvoy, Mr. Michael		36568
+3.0	male	33.0	720.0	7.775	S	0	Johnson, Mr. Malkolm Joackim		347062
+2.0	female	6.0	721.0	33.0	S	1	"Harper, Miss. Annie Jessie ""Nina"""		248727
+3.0	male	17.0	722.0	7.0542	S	0	Jensen, Mr. Svend Lauritz		350048
+2.0	male	34.0	723.0	13.0	S	0	Gillespie, Mr. William Henry		12233
+2.0	male	50.0	724.0	13.0	S	0	Hodges, Mr. Henry Price		250643
+1.0	male	27.0	725.0	53.1	S	1	Chambers, Mr. Norman Campbell	E8	113806
+3.0	male	20.0	726.0	8.6625	S	0	Oreskovic, Mr. Luka		315094
+2.0	female	30.0	727.0	21.0	S	1	Renouf, Mrs. Peter Henry (Lillian Jefferys)		31027
+3.0	female		728.0	7.7375	Q	1	Mannion, Miss. Margareth		36866
+2.0	male	25.0	729.0	26.0	S	0	Bryhl, Mr. Kurt Arnold Gottfrid		236853
+3.0	female	25.0	730.0	7.925	S	0	Ilmakangas, Miss. Pieta Sofia		STON/O2. 3101271
+1.0	female	29.0	731.0	211.3375	S	1	Allen, Miss. Elisabeth Walton	B5	24160
+3.0	male	11.0	732.0	18.7875	C	0	Hassan, Mr. Houssein G N		2699
+2.0	male		733.0	0.0	S	0	Knight, Mr. Robert J		239855
+2.0	male	23.0	734.0	13.0	S	0	Berriman, Mr. William John		28425
+2.0	male	23.0	735.0	13.0	S	0	Troupiansky, Mr. Moses Aaron		233639
+3.0	male	28.5	736.0	16.1	S	0	Williams, Mr. Leslie		54636
+3.0	female	48.0	737.0	34.375	S	0	Ford, Mrs. Edward (Margaret Ann Watson)		W./C. 6608
+1.0	male	35.0	738.0	512.3292	C	1	Lesurer, Mr. Gustave J	B101	PC 17755
+3.0	male		739.0	7.8958	S	0	Ivanoff, Mr. Kanio		349201
+3.0	male		740.0	7.8958	S	0	Nankoff, Mr. Minko		349218
+1.0	male		741.0	30.0	S	1	Hawksford, Mr. Walter James	D45	16988
+1.0	male	36.0	742.0	78.85	S	0	Cavendish, Mr. Tyrell William	C46	19877
+1.0	female	21.0	743.0	262.375	C	1	"Ryerson, Miss. Susan Parker ""Suzette"""	B57 B59 B63 B66	PC 17608
+3.0	male	24.0	744.0	16.1	S	0	McNamee, Mr. Neal		376566
+3.0	male	31.0	745.0	7.925	S	1	Stranden, Mr. Juho		STON/O 2. 3101288
+1.0	male	70.0	746.0	71.0	S	0	Crosby, Capt. Edward Gifford	B22	WE/P 5735
+3.0	male	16.0	747.0	20.25	S	0	Abbott, Mr. Rossmore Edward		C.A. 2673
+2.0	female	30.0	748.0	13.0	S	1	Sinkkonen, Miss. Anna		250648
+1.0	male	19.0	749.0	53.1	S	0	Marvin, Mr. Daniel Warner	D30	113773
+3.0	male	31.0	750.0	7.75	Q	0	Connaghton, Mr. Michael		335097
+2.0	female	4.0	751.0	23.0	S	1	Wells, Miss. Joan		29103
+3.0	male	6.0	752.0	12.475	S	1	Moor, Master. Meier	E121	392096
+3.0	male	33.0	753.0	9.5	S	0	Vande Velde, Mr. Johannes Joseph		345780
+3.0	male	23.0	754.0	7.8958	S	0	Jonkoff, Mr. Lalio		349204
+2.0	female	48.0	755.0	65.0	S	1	Herman, Mrs. Samuel (Jane Laver)		220845
+2.0	male	0.67	756.0	14.5	S	1	Hamalainen, Master. Viljo		250649
+3.0	male	28.0	757.0	7.7958	S	0	Carlsson, Mr. August Sigfrid		350042
+2.0	male	18.0	758.0	11.5	S	0	Bailey, Mr. Percy Andrew		29108
+3.0	male	34.0	759.0	8.05	S	0	Theobald, Mr. Thomas Leonard		363294
+1.0	female	33.0	760.0	86.5	S	1	Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)	B77	110152
+3.0	male		761.0	14.5	S	0	Garfirth, Mr. John		358585
+3.0	male	41.0	762.0	7.125	S	0	Nirva, Mr. Iisakki Antino Aijo		SOTON/O2 3101272
+3.0	male	20.0	763.0	7.2292	C	1	Barah, Mr. Hanna Assi		2663
+1.0	female	36.0	764.0	120.0	S	1	Carter, Mrs. William Ernest (Lucile Polk)	B96 B98	113760
+3.0	male	16.0	765.0	7.775	S	0	Eklund, Mr. Hans Linus		347074
+1.0	female	51.0	766.0	77.9583	S	1	Hogeboom, Mrs. John C (Anna Andrews)	D11	13502
+1.0	male		767.0	39.6	C	0	Brewe, Dr. Arthur Jackson		112379
+3.0	female	30.5	768.0	7.75	Q	0	Mangan, Miss. Mary		364850
+3.0	male		769.0	24.15	Q	0	Moran, Mr. Daniel J		371110
+3.0	male	32.0	770.0	8.3625	S	0	Gronnestad, Mr. Daniel Danielsen		8471
+3.0	male	24.0	771.0	9.5	S	0	Lievens, Mr. Rene Aime		345781
+3.0	male	48.0	772.0	7.8542	S	0	Jensen, Mr. Niels Peder		350047
+2.0	female	57.0	773.0	10.5	S	0	Mack, Mrs. (Mary)	E77	S.O./P.P. 3
+3.0	male		774.0	7.225	C	0	Elias, Mr. Dibo		2674
+2.0	female	54.0	775.0	23.0	S	1	Hocking, Mrs. Elizabeth (Eliza Needs)		29105
+3.0	male	18.0	776.0	7.75	S	0	Myhrman, Mr. Pehr Fabian Oliver Malkolm		347078
+3.0	male		777.0	7.75	Q	0	Tobin, Mr. Roger	F38	383121
+3.0	female	5.0	778.0	12.475	S	1	Emanuel, Miss. Virginia Ethel		364516
+3.0	male		779.0	7.7375	Q	0	Kilgannon, Mr. Thomas J		36865
+1.0	female	43.0	780.0	211.3375	S	1	Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)	B3	24160
+3.0	female	13.0	781.0	7.2292	C	1	Ayoub, Miss. Banoura		2687
+1.0	female	17.0	782.0	57.0	S	1	Dick, Mrs. Albert Adrian (Vera Gillespie)	B20	17474
+1.0	male	29.0	783.0	30.0	S	0	Long, Mr. Milton Clyde	D6	113501
+3.0	male		784.0	23.45	S	0	Johnston, Mr. Andrew G		W./C. 6607
+3.0	male	25.0	785.0	7.05	S	0	Ali, Mr. William		SOTON/O.Q. 3101312
+3.0	male	25.0	786.0	7.25	S	0	Harmer, Mr. Abraham (David Lishin)		374887
+3.0	female	18.0	787.0	7.4958	S	1	Sjoblom, Miss. Anna Sofia		3101265
+3.0	male	8.0	788.0	29.125	Q	0	Rice, Master. George Hugh		382652
+3.0	male	1.0	789.0	20.575	S	1	Dean, Master. Bertram Vere		C.A. 2315
+1.0	male	46.0	790.0	79.2	C	0	Guggenheim, Mr. Benjamin	B82 B84	PC 17593
+3.0	male		791.0	7.75	Q	0	"Keane, Mr. Andrew ""Andy"""		12460
+2.0	male	16.0	792.0	26.0	S	0	Gaskell, Mr. Alfred		239865
+3.0	female		793.0	69.55	S	0	Sage, Miss. Stella Anna		CA. 2343
+1.0	male		794.0	30.6958	C	0	Hoyt, Mr. William Fisher		PC 17600
+3.0	male	25.0	795.0	7.8958	S	0	Dantcheff, Mr. Ristiu		349203
+2.0	male	39.0	796.0	13.0	S	0	Otter, Mr. Richard		28213
+1.0	female	49.0	797.0	25.9292	S	1	Leader, Dr. Alice (Farnham)	D17	17465
+3.0	female	31.0	798.0	8.6833	S	1	Osman, Mrs. Mara		349244
+3.0	male	30.0	799.0	7.2292	C	0	Ibrahim Shawah, Mr. Yousseff		2685
+3.0	female	30.0	800.0	24.15	S	0	Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)		345773
+2.0	male	34.0	801.0	13.0	S	0	Ponesell, Mr. Martin		250647
+2.0	female	31.0	802.0	26.25	S	1	Collyer, Mrs. Harvey (Charlotte Annie Tate)		C.A. 31921
+1.0	male	11.0	803.0	120.0	S	1	Carter, Master. William Thornton II	B96 B98	113760
+3.0	male	0.42	804.0	8.5167	C	1	Thomas, Master. Assad Alexander		2625
+3.0	male	27.0	805.0	6.975	S	1	Hedman, Mr. Oskar Arvid		347089
+3.0	male	31.0	806.0	7.775	S	0	Johansson, Mr. Karl Johan		347063
+1.0	male	39.0	807.0	0.0	S	0	Andrews, Mr. Thomas Jr	A36	112050
+3.0	female	18.0	808.0	7.775	S	0	Pettersson, Miss. Ellen Natalia		347087
+2.0	male	39.0	809.0	13.0	S	0	Meyer, Mr. August		248723
+1.0	female	33.0	810.0	53.1	S	1	Chambers, Mrs. Norman Campbell (Bertha Griggs)	E8	113806
+3.0	male	26.0	811.0	7.8875	S	0	Alexander, Mr. William		3474
+3.0	male	39.0	812.0	24.15	S	0	Lester, Mr. James		A/4 48871
+2.0	male	35.0	813.0	10.5	S	0	Slemen, Mr. Richard James		28206
+3.0	female	6.0	814.0	31.275	S	0	Andersson, Miss. Ebba Iris Alfrida		347082
+3.0	male	30.5	815.0	8.05	S	0	Tomlin, Mr. Ernest Portage		364499
+1.0	male		816.0	0.0	S	0	Fry, Mr. Richard	B102	112058
+3.0	female	23.0	817.0	7.925	S	0	Heininen, Miss. Wendla Maria		STON/O2. 3101290
+2.0	male	31.0	818.0	37.0042	C	0	Mallet, Mr. Albert		S.C./PARIS 2079
+3.0	male	43.0	819.0	6.45	S	0	Holm, Mr. John Fredrik Alexander		C 7075
+3.0	male	10.0	820.0	27.9	S	0	Skoog, Master. Karl Thorsten		347088
+1.0	female	52.0	821.0	93.5	S	1	Hays, Mrs. Charles Melville (Clara Jennings Gregg)	B69	12749
+3.0	male	27.0	822.0	8.6625	S	1	Lulic, Mr. Nikola		315098
+1.0	male	38.0	823.0	0.0	S	0	Reuchlin, Jonkheer. John George		19972
+3.0	female	27.0	824.0	12.475	S	1	Moor, Mrs. (Beila)	E121	392096
+3.0	male	2.0	825.0	39.6875	S	0	Panula, Master. Urho Abraham		3101295
+3.0	male		826.0	6.95	Q	0	Flynn, Mr. John		368323
+3.0	male		827.0	56.4958	S	0	Lam, Mr. Len		1601
+2.0	male	1.0	828.0	37.0042	C	1	Mallet, Master. Andre		S.C./PARIS 2079
+3.0	male		829.0	7.75	Q	1	McCormack, Mr. Thomas Joseph		367228
+1.0	female	62.0	830.0	80.0		1	Stone, Mrs. George Nelson (Martha Evelyn)	B28	113572
+3.0	female	15.0	831.0	14.4542	C	1	Yasbeck, Mrs. Antoni (Selini Alexander)		2659
+2.0	male	0.83	832.0	18.75	S	1	Richards, Master. George Sibley		29106
+3.0	male		833.0	7.2292	C	0	Saad, Mr. Amin		2671
+3.0	male	23.0	834.0	7.8542	S	0	Augustsson, Mr. Albert		347468
+3.0	male	18.0	835.0	8.3	S	0	Allum, Mr. Owen George		2223
+1.0	female	39.0	836.0	83.1583	C	1	Compton, Miss. Sara Rebecca	E49	PC 17756
+3.0	male	21.0	837.0	8.6625	S	0	Pasic, Mr. Jakob		315097
+3.0	male		838.0	8.05	S	0	Sirota, Mr. Maurice		392092
+3.0	male	32.0	839.0	56.4958	S	1	Chip, Mr. Chang		1601
+1.0	male		840.0	29.7	C	1	Marechal, Mr. Pierre	C47	11774
+3.0	male	20.0	841.0	7.925	S	0	Alhomaki, Mr. Ilmari Rudolf		SOTON/O2 3101287
+2.0	male	16.0	842.0	10.5	S	0	Mudd, Mr. Thomas Charles		S.O./P.P. 3
+1.0	female	30.0	843.0	31.0	C	1	Serepeca, Miss. Augusta		113798
+3.0	male	34.5	844.0	6.4375	C	0	Lemberopolous, Mr. Peter L		2683
+3.0	male	17.0	845.0	8.6625	S	0	Culumovic, Mr. Jeso		315090
+3.0	male	42.0	846.0	7.55	S	0	Abbing, Mr. Anthony		C.A. 5547
+3.0	male		847.0	69.55	S	0	Sage, Mr. Douglas Bullen		CA. 2343
+3.0	male	35.0	848.0	7.8958	C	0	Markoff, Mr. Marin		349213
+2.0	male	28.0	849.0	33.0	S	0	Harper, Rev. John		248727
+1.0	female		850.0	89.1042	C	1	Goldenberg, Mrs. Samuel L (Edwiga Grabowska)	C92	17453
+3.0	male	4.0	851.0	31.275	S	0	Andersson, Master. Sigvard Harald Elias		347082
+3.0	male	74.0	852.0	7.775	S	0	Svensson, Mr. Johan		347060
+3.0	female	9.0	853.0	15.2458	C	0	Boulos, Miss. Nourelain		2678
+1.0	female	16.0	854.0	39.4	S	1	Lines, Miss. Mary Conover	D28	PC 17592
+2.0	female	44.0	855.0	26.0	S	0	Carter, Mrs. Ernest Courtenay (Lilian Hughes)		244252
+3.0	female	18.0	856.0	9.35	S	1	Aks, Mrs. Sam (Leah Rosen)		392091
+1.0	female	45.0	857.0	164.8667	S	1	Wick, Mrs. George Dennick (Mary Hitchcock)		36928
+1.0	male	51.0	858.0	26.55	S	1	Daly, Mr. Peter Denis 	E17	113055
+3.0	female	24.0	859.0	19.2583	C	1	Baclini, Mrs. Solomon (Latifa Qurban)		2666
+3.0	male		860.0	7.2292	C	0	Razi, Mr. Raihed		2629
+3.0	male	41.0	861.0	14.1083	S	0	Hansen, Mr. Claus Peter		350026
+2.0	male	21.0	862.0	11.5	S	0	Giles, Mr. Frederick Edward		28134
+1.0	female	48.0	863.0	25.9292	S	1	Swift, Mrs. Frederick Joel (Margaret Welles Barron)	D17	17466
+3.0	female		864.0	69.55	S	0	"Sage, Miss. Dorothy Edith ""Dolly"""		CA. 2343
+2.0	male	24.0	865.0	13.0	S	0	Gill, Mr. John William		233866
+2.0	female	42.0	866.0	13.0	S	1	Bystrom, Mrs. (Karolina)		236852
+2.0	female	27.0	867.0	13.8583	C	1	Duran y More, Miss. Asuncion		SC/PARIS 2149
+1.0	male	31.0	868.0	50.4958	S	0	Roebling, Mr. Washington Augustus II	A24	PC 17590
+3.0	male		869.0	9.5	S	0	van Melkebeke, Mr. Philemon		345777
+3.0	male	4.0	870.0	11.1333	S	1	Johnson, Master. Harold Theodor		347742
+3.0	male	26.0	871.0	7.8958	S	0	Balkic, Mr. Cerin		349248
+1.0	female	47.0	872.0	52.5542	S	1	Beckwith, Mrs. Richard Leonard (Sallie Monypeny)	D35	11751
+1.0	male	33.0	873.0	5.0	S	0	Carlsson, Mr. Frans Olof	B51 B53 B55	695
+3.0	male	47.0	874.0	9.0	S	0	Vander Cruyssen, Mr. Victor		345765
+2.0	female	28.0	875.0	24.0	C	1	Abelson, Mrs. Samuel (Hannah Wizosky)		P/PP 3381
+3.0	female	15.0	876.0	7.225	C	1	"Najib, Miss. Adele Kiamie ""Jane"""		2667
+3.0	male	20.0	877.0	9.8458	S	0	Gustafsson, Mr. Alfred Ossian		7534
+3.0	male	19.0	878.0	7.8958	S	0	Petroff, Mr. Nedelio		349212
+3.0	male		879.0	7.8958	S	0	Laleff, Mr. Kristo		349217
+1.0	female	56.0	880.0	83.1583	C	1	Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)	C50	11767
+2.0	female	25.0	881.0	26.0	S	1	Shelley, Mrs. William (Imanita Parrish Hall)		230433
+3.0	male	33.0	882.0	7.8958	S	0	Markun, Mr. Johann		349257
+3.0	female	22.0	883.0	10.5167	S	0	Dahlberg, Miss. Gerda Ulrika		7552
+2.0	male	28.0	884.0	10.5	S	0	Banfield, Mr. Frederick James		C.A./SOTON 34068
+3.0	male	25.0	885.0	7.05	S	0	Sutehall, Mr. Henry Jr		SOTON/OQ 392076
+3.0	female	39.0	886.0	29.125	Q	0	Rice, Mrs. William (Margaret Norton)		382652
+2.0	male	27.0	887.0	13.0	S	0	Montvila, Rev. Juozas		211536
+1.0	female	19.0	888.0	30.0	S	1	Graham, Miss. Margaret Edith	B42	112053
+3.0	female		889.0	23.45	S	0	"Johnston, Miss. Catherine Helen ""Carrie"""		W./C. 6607
+1.0	male	26.0	890.0	30.0	C	1	Behr, Mr. Karl Howell	C148	111369
+3.0	male	32.0	891.0	7.75	Q	0	Dooley, Mr. Patrick		370376
